@@ -1,0 +1,16 @@
+{
+  "name": "proton-quickstart",
+  "version": "1.0.0",
+  "description": "ProtonType api Quickstart ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node dist/Main.js"
+  },
+  "author": "Humberto Machado <betolinck@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "protontype": "^0.10.0-alpha",
+    "typescript": "^2.0.6"
+  }
+}
