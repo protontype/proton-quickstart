@@ -10,7 +10,7 @@
   "author": "Humberto Machado <betolinck@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "protontype": "^0.10.0-alpha",
+    "protontype": "^0.10.1-alpha",
     "typescript": "^2.0.6"
   }
 }
