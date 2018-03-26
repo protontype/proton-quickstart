@@ -1,0 +1,19 @@
+{
+  "name": "proto-quickstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node ./dist/Main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "protontype": "^2.3.3",
+    "sqlite3": "^3.1.13"
+  },
+  "devDependencies": {
+    "typescript": "^2.7.2"
+  }
+}
