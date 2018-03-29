@@ -1,16 +1,19 @@
 {
-  "name": "proton-quickstart",
+  "name": "proto-quickstart",
   "version": "1.0.0",
-  "description": "ProtonType api Quickstart ",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "tsc && node dist/Main.js"
+    "build": "tsc",
+    "start": "node ./dist/Main.js"
   },
-  "author": "Humberto Machado <betolinck@gmail.com>",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "protontype": "^0.10.1-alpha",
-    "typescript": "^2.0.6"
+    "protontype": "^2.3.3",
+    "sqlite3": "^3.1.13"
+  },
+  "devDependencies": {
+    "typescript": "^2.7.2"
   }
 }
