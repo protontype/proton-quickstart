@@ -10,10 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "protontype": "^2.3.3",
+    "protontype": "^2.4.0",
     "sqlite3": "^3.1.13"
   },
   "devDependencies": {
-    "typescript": "^2.7.2"
+    "typescript": "^3.2.1"
   }
 }
